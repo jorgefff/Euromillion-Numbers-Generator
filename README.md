@@ -1,1 +1,3 @@
-# Euromillion-Numbers-Generator
+# Euromillion Numbers Generator in VHDL
+
+
